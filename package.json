@@ -1,0 +1,14 @@
+{
+  "name": "ssl-monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Platform Operations",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.21.1"
+  }
+}
