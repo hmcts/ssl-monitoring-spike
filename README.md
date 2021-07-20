@@ -1,4 +1,4 @@
-# SSL monitoring
+# SSL monitoring
 
 ```
 $ npm install
